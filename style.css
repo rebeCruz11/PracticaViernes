@@ -8,3 +8,9 @@
     width: 200px;
     height: 30px;
 }
+.btn-info:hover{
+    background-color: rgb(66, 63, 255);
+}
+.Centrar{
+    align-items: center;
+}
